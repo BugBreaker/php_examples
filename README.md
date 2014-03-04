@@ -1,4 +1,4 @@
-php_examples
-============
+RazorFlow Dashboard Framework PHP Examples
+==========================================
 
-Examples to use RazorFlow Dashboard Framework
+This repository contains some examples on how to use the  RazorFlow Dashboard Framework JavaScript API to build dashboards which have data powered by PHP.
